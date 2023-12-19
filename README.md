@@ -1,0 +1,2 @@
+# Rhai-s-bot
+Hi
